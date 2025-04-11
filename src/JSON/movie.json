@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "title": "Bright",
+      "description": "Set in a world where fantasy creatures live side by side with humans. A human cop is forced to work with an Orc to find a weapon everyone is prepared to kill for.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/BrightPoster.jpeg",
+      "images": "https://www.brandsynario.com/wp-content/uploads/2020/10/bright4513442600456354601-696x392.jpg",
+      "duration": "117 min",
+      "director": "David Ayer",
+      "year": "2017",
+      "Genres": "Action,Crime,Fantasy"
+    },
+    {
+      "id": 2,
+      "title": "Tomb Raider",
+      "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/Tomb_Raider_%282018_film%29.png",
+      "images": "http://images.flickdirect.com/cache/movies/tomb-raider-2018/05000-tomb-raider-2018-poster.jpg",
+      "duration": "135 min",
+      "director": "Roar Uthaug",
+      "year": "2018",
+      "Genres": "Action,Fantasy"
+    }
+  ]
+  
